@@ -1,0 +1,11 @@
+.moviesListed{
+  border-style: solid;
+  border-width: thin;
+  height: 70px;
+
+
+}
+
+.title{
+  color: red
+}
