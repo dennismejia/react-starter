@@ -2,10 +2,15 @@
   border-style: solid;
   border-width: thin;
   height: 70px;
-
-
 }
 
 .title{
   color: red
+}
+.searchBar{
+  height: 40px;
+}
+.searchBtn{
+  color: red;
+  cursor: pointer;
 }
